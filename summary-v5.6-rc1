@@ -1,0 +1,66 @@
+      1 Expected ; at end of declaration
+     97 Initializer entry defined twice
+    153 Using plain integer as NULL pointer
+    379 advancing past deep designator
+      4 arithmetics on pointers to functions
+     15 bad assignment to restricted type
+      4 cast between address spaces (<asn:3> -> <asn:4>)
+    287 cast from restricted type
+     44 cast removes address space '<asn:1>' of expression
+    142 cast removes address space '<asn:2>' of expression
+      1 cast removes address space '<asn:3>' of expression
+     10 cast removes address space '<asn:4>' of expression
+     13 cast to non-scalar
+   4778 cast to restricted type
+    579 cast truncates bits from constant value
+    378 context imbalance - different lock contexts for basic block
+    597 context imbalance - unexpected unlock
+    215 context imbalance - wrong count at exit
+    115 dereference of noderef expression
+     15 dubious one-bit signed bitfield
+     10 dubious: !x & y
+      1 dubious: !x | !y
+      6 dubious: !x | y
+     56 dubious: x & !y
+     19 dubious: x | !y
+     17 function with external linkage has definition
+      2 implicit cast from nocast type
+    487 incompatible types in comparison expression (different address spaces):
+      3 incompatible types in comparison expression (different base types):
+      5 incompatible types in conditional expression (different base types):
+   1170 incorrect type in argument (different address spaces)
+    529 incorrect type in argument (different base types)
+      7 incorrect type in argument (different type sizes)
+      1 incorrect type in argument (incompatible argument (different base types))
+    348 incorrect type in assignment (different address spaces)
+   5571 incorrect type in assignment (different base types)
+      1 incorrect type in assignment (different modifiers)
+    117 incorrect type in initializer (different address spaces)
+    142 incorrect type in initializer (different base types)
+      3 incorrect type in initializer (incompatible argument (different address spaces))
+     29 incorrect type in return expression (different address spaces)
+     30 incorrect type in return expression (different base types)
+    514 invalid assignment
+     37 invalid bitfield specifier for type restricted type.
+     15 invalid initializer
+      1 macro "__cond_context" requires 3 arguments, but only 1 given
+      1 marked inline, but without a definition
+      1 memcpy with byte count of ...
+      5 memset with byte count of ...
+      9 missing braces around initializer
+      7 mixed bitwiseness
+     11 mixing different enum types:
+      1 multiple address spaces given
+      2 no newline at end of file
+      1 non-scalar type in conditional:
+    965 restricted type degrades to integer
+      3 shift count is (-1)
+      5 shift too big for type
+     12 static assertion failed
+      4 subtraction of different types can't work (different address spaces)
+     23 subtraction of functions? Share your drugs
+      1 switch with no cases
+      1 symbol redeclared with different type (different address spaces):
+   2001 symbol was not declared. Should it be static?
+      1 too long token expansion
+      3 trying to concatenate long character string (8191 bytes max)
