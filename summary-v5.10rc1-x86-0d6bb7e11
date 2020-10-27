@@ -1,0 +1,60 @@
+    210 Initializer entry defined twice
+     92 Using plain integer as NULL pointer
+      4 arithmetics on pointers to functions
+     88 array of flexible structures
+     10 bad assignment to restricted type
+      4 cast between address spaces (__percpu -> __rcu)
+    257 cast from restricted type
+    468 cast removes address space '__iomem' of expression
+      1 cast removes address space '__percpu' of expression
+     15 cast removes address space '__rcu' of expression
+     20 cast removes address space '__user' of expression
+   2862 cast to restricted type
+    548 cast truncates bits from constant value
+    359 context imbalance - different lock contexts for basic block
+    472 context imbalance - unexpected unlock
+    191 context imbalance - wrong count at exit
+    106 dereference of noderef expression
+      1 division by zero
+      1 dubious one-bit signed bitfield
+     16 dubious: !x & y
+      1 dubious: !x | !y
+      6 dubious: !x | y
+     56 dubious: x & !y
+     19 dubious: x | !y
+     18 function with external linkage has definition
+      2 implicit cast from nocast type
+    458 incompatible types in comparison expression (different address spaces)
+      4 incompatible types in comparison expression (different base types)
+      7 incompatible types in conditional expression (different base types)
+   1031 incorrect type in argument (different address spaces)
+    477 incorrect type in argument (different base types)
+    336 incorrect type in assignment (different address spaces)
+   3513 incorrect type in assignment (different base types)
+      1 incorrect type in assignment (different modifiers)
+    130 incorrect type in initializer (different address spaces)
+    124 incorrect type in initializer (different base types)
+      4 incorrect type in initializer (incompatible argument (different address spaces))
+     24 incorrect type in return expression (different address spaces)
+     25 incorrect type in return expression (different base types)
+    282 invalid assignment
+     37 invalid bitfield specifier for type restricted type.
+      7 invalid initializer
+      2 marked inline, but without a definition
+      4 memset with byte count of ...
+      7 mixed bitwiseness
+      8 mixing different enum types:
+      1 multiple address spaces given
+     12 multiple definitions for ...
+      2 no generic selection for ...
+    902 restricted type degrades to integer
+      1 statement expected after label
+     16 static assertion failed
+      5 subtraction of different types can't work (different address spaces)
+     23 subtraction of functions? Share your drugs
+      1 switch with no cases
+      1 symbol redeclared with different type (different address spaces)
+      2 symbol redeclared with different type (incompatible argument (different address spaces))
+   1705 symbol was not declared. Should it be static?
+      1 too long token expansion
+      3 trying to concatenate long character string (8191 bytes max)
